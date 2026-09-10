@@ -1,17 +1,7 @@
 # Demo Video
 
-The demo video is **optional**, but strongly recommended if your project has a working prototype.
+This video demonstrates the 3rDLens workflow for converting a single drone video into an accurate, interactive 3D model.
 
-## Demo video link
+[Open the demo video on Google Drive](https://drive.google.com/file/d/13nvR_JGmpDTSTQeCaOFMYUnudwz2mKv-/view?usp=drive_link)
 
-`<PASTE_YOUTUBE_OR_GOOGLE_DRIVE_VIDEO_LINK_HERE>`
 
-## What the video should show
-
-1. Brief introduction to the problem.
-2. The proposed solution.
-3. Main features / workflow.
-4. Actual working prototype or final output.
-5. Hardware demonstration, if applicable.
-
-Keep the video focused on the actual project and make sure reviewers can access it without requesting permission.
