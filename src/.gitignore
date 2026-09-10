@@ -1,0 +1,95 @@
+# ─── Python & Virtual Environments ─────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+!frontend/lib/
+!frontend/lib/*.ts
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# ─── Secrets & Local Configuration ──────────────────────────
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+
+# ─── Model Checkpoints & Large Weights ──────────────────────
+checkpoints/
+DroneSplat/checkpoints/
+*.pth
+*.pt
+*.ckpt
+*.bin
+*.onnx
+*.safetensors
+
+# ─── Runtime Data, Pipeline Uploads & Exports ───────────────
+input/
+uploads/
+exports/
+DroneSplat/data/
+DroneSplat/output/
+sample_test*.mp4
+sample_test*.json
+gps_sample*.json
+*.srt
+*.ply
+*.splat
+*.las
+*.laz
+
+# Frontend demo datasets are served as static Vercel assets.
+!frontend/public/1/
+!frontend/public/1/*
+!frontend/public/2/
+!frontend/public/2/*
+!frontend/public/3/
+!frontend/public/3/*
+
+# ─── Compiled C++/CUDA Build Artifacts ──────────────────────
+*.o
+*.obj
+*.a
+*.lib
+*.dylib
+*.dll
+submodules/**/build/
+submodules/**/dist/
+submodules/**/*.egg-info/
+submodules/**/*.so
+
+# ─── Logs & Databases ───────────────────────────────────────
+*.log
+*.sqlite
+*.db
+
+# ─── OS & Editor Files ──────────────────────────────────────
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+.gemini/
