@@ -133,25 +133,17 @@ NSUT-SIH-DEMO-main/
 
 ## 8. Final Presentation
 
-Keep the final CODEVENGERS SIH presentation in the repository whenever the file size allows it.
-
 See [submission/PRESENTATION.md](submission/PRESENTATION.md) for the required format.
 
-If the PPT is too large for GitHub, use Google Drive/OneDrive and put the accessible viewer link in `submission/PRESENTATION.md`.
 
 ## 9. Demo Video
 
-A demo video is **optional**, but recommended.
-
-Add the 3rDLens demo video link in [submission/DEMO.md](submission/DEMO.md).
+the 3rDLens demo video link in [submission/DEMO.md](submission/DEMO.md).
 
 ## 10. Screenshots / Prototype Photos
 
-Add important dashboard screenshots, reconstruction outputs, or hardware/cloud GPU photos to:
 
-`assets/screenshots/`
-
-See [assets/screenshots/README.md](assets/screenshots/README.md) for examples and naming conventions.
+See [assets/screenshots/README.md](assets/screenshots/README.md) 
 
 ## 11. Installation
 
