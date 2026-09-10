@@ -1,10 +1,10 @@
 # Project Screenshots
 
-This folder contains visual documentation for the 3rDLens single-pass drone reconstruction platform.
+This folder contains visual documentation for the 3rDLens single-pass drone video to accurate 3D model generation platform.
 
 ## 3rDLens landing page
 
-The landing page introduces 3rDLens and presents the workflow for converting a single drone flight into an accurate 3D reconstruction.
+The landing page introduces 3rDLens and presents the workflow for converting a single pass drone flight video to an accurate 3D model reconstruction.
 
 ![3rDLens landing page](01-landing-page.png)
 
